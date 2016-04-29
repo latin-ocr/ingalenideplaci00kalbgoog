@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ingalenideplaci00kalbgoog_0004.png"; bbox 0 0 3308 5122; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 49 1777 1210 1880">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 45 1698 1210 1937">
+     <span class='ocr_line' id='line_1_1' title="bbox 49 1777 1210 1880; baseline -0.003 0.986"><span class='ocrx_word' id='word_1_1' title='bbox 49 1784 53 1793; x_wconf 87' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 258 1777 566 1879; x_wconf 65' lang='lat' dir='ltr'>Mssfflzwm</span> <span class='ocrx_word' id='word_1_3' title='bbox 597 1777 909 1880; x_wconf 66' lang='lat' dir='ltr'>{mamus</span> <span class='ocrx_word' id='word_1_4' title='bbox 940 1777 1210 1880; x_wconf 64' lang='lat' dir='ltr'>Pfflhohoffl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 685 1937 729 1992">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 685 1937 729 1992">
+     <span class='ocr_line' id='line_1_2' title="bbox 685 1937 729 1992; baseline 0 -8"><span class='ocrx_word' id='word_1_5' title='bbox 685 1937 729 1992; x_wconf 78' lang='lat' dir='ltr'>Qv</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 48 1937 1327 2393">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 45 1937 1327 2393">
+     <span class='ocr_line' id='line_1_3' title="bbox 155 1937 1045 2106; baseline 0.002 -3.78"><span class='ocrx_word' id='word_1_6' title='bbox 155 2036 195 2063; x_wconf 77' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 426 1937 1045 2106; x_wconf 55' lang='lat' dir='ltr'><strong>ooNsENSVETAAVOTORITATE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 143 2201 1327 2286; baseline 0 -2"><span class='ocrx_word' id='word_1_8' title='bbox 143 2201 503 2285; x_wconf 79' lang='lat' dir='ltr'>AMPLISSIMI</span> <span class='ocrx_word' id='word_1_9' title='bbox 530 2203 1049 2285; x_wconf 78' lang='lat' dir='ltr'>PHILOSOPHORVM</span> <span class='ocrx_word' id='word_1_10' title='bbox 1077 2203 1327 2286; x_wconf 79' lang='lat' dir='ltr'>0RD1N1s</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 48 2347 754 2393; baseline 0.007 -5"><span class='ocrx_word' id='word_1_11' title='bbox 48 2351 55 2379; x_wconf 79' lang='grc' dir='ltr'>·ἶ</span> <span class='ocrx_word' id='word_1_12' title='bbox 718 2347 754 2393; x_wconf 82' lang='lat' dir='ltr'>IN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1658 5122">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1658 5122">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1658 5122; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1658 5122; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
